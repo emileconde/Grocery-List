@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Grocery List</string>
+    <string name="action_settings">Settings</string>
+    <string name="txt_add_item">Add Item</string>
+    <string name="txt_enter_grocery_item">Enter Grocery Item</string>
+    <string name="txt_edit_grocery_item">Edit Grocery Item</string>
+    <string name="et_hint">Enter grocery item</string>
+    <string name="et_quantity_hint">Quantity</string>
+    <string name="btn_save">save</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="are_you_sure_dialog">Are you sure?</string>
+    <string name="yes_dialog_delete">Yes</string>
+    <string name="no_button_dialog">No</string>
+</resources>
